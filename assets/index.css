@@ -1,0 +1,55 @@
+body{
+    background: #1F1F47;
+    padding: 30px 117px 20px 70px;
+}
+header{
+    background: #1F1F47;
+    ;
+}
+.card-1{
+    background: linear-gradient(329.79deg, #0052D4 -31.21%, #4364F7 18.94%, #6FB1FC 98.47%);
+box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+border-radius: 20px;
+
+}
+.card-2{
+    background: linear-gradient(330.18deg, #C84E89 -27.91%, #F15F79 101.7%);
+box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+border-radius: 20px;
+}
+.card-3{
+    background: linear-gradient(151.57deg, #DA22FF 0%, #9733EE 119.33%);
+box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+border-radius: 20px;
+}
+.titulo{
+    margin-bottom: 40px;
+}
+.contenedor-botones{
+    margin-bottom: 50px;
+    margin-top: 40px;
+    display:flex ;
+    justify-content: center;
+}
+.btn-secondary{
+    margin-right: 30px;
+    background: linear-gradient(154.49deg, rgba(121, 117, 131, 0.2) 5.35%, rgba(54, 53, 103, 0.2) 83.85%), rgba(49, 48, 54, 0.3);
+    border-radius: 20px;
+    box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);    
+}
+
+.active{
+    background: linear-gradient(330.53deg, #D40000 -15.77%, #F76343 28.41%, #FC6F6F 98.47%);
+box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+border-radius: 20px;
+}
+.nav-link{
+    font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
